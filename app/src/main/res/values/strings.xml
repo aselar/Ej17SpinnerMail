@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ej17SpinnerMail</string>
+    <string name="introduccion">Introducir feedback a ennviar:</string>
+    <string name="hintNombre">Tu Nombre</string>
+    <string name="hintEmail">Tu Email</string>
+    <string name="hintFeedback">Detalles de feedback</string>
+    <string name="checkBox">¿Te gustaría recibir una respuesta por e-mail?</string>
+    <string name="boton">Enviar Feedback</string>
+    <string name="tipoFeedback">Introducir tipo de Feedback</string>
+</resources>
